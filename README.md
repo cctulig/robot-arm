@@ -1,4 +1,4 @@
-# robot-arm
+# robot-arm (OLD)
 Mechanically designed, with the aid of CAD and 3D printing, a robotic arm with some basic programming to control it.
 
 6ButtonArm: Arduino code for controlling the arm movements with a 6 button controller.
